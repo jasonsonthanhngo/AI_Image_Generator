@@ -9,17 +9,25 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 ## Preview
  <br />
 
-![Homepage](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/e59d61de-7938-49a2-8a44-e852e72cb6a2)
+### Desktop Preview
 
-**<p align="center">Homepage</p>**  <br />
-
+ ![Homepage](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/e59d61de-7938-49a2-8a44-e852e72cb6a2) 
+ **<p align="center">Home Page</p>**   
+ ![Photo Info when hoover](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/cc6a892f-3654-4fa2-a5e2-1ebdf5996589)   
+ **<p align="center">Photo Information Display</p>**   
 ![Create Page](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/b8bf49c8-1ee5-46ab-9ea8-13f309030b54)
 
-**<p align="center">Create Page</p>**  <br />
+**<p align="center">Create Page</p>**   
 
-![Photo Info when hoover](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/cc6a892f-3654-4fa2-a5e2-1ebdf5996589)
 
-**<p align="center">Photo Info</p>**
+
+
+
+
+### Phone Screen Preview 
+| Home Page | Photo Information Display | Create Page | Scrollable Content on Phone UI |
+|--------------|--------------|--------------|--------------|
+| ![IOS Header](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/a7205b11-1652-4508-83a9-475de1183bed) | ![IOS Feed](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/1349713f-20b8-42c2-8c7c-9b367757f0cf) | ![IOS Create](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/7490a250-ebcb-4a28-8c39-0e3e489611a2) | ![IOS Home](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/aa67d8bf-c67f-466e-9c12-fa331436d270) |
 
 
 ## Technologies Used
