@@ -54,7 +54,9 @@ Follow these steps to run the **AI_Image_Generator** on your local machine:
 
 1. Start by cloning the repository to your local machine: `git clone https://github.com/jasonsonthanhngo/AI_Image_Generator.git`
 2. Navigate to the project directory: `cd AI_Image_Generator`
-3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies: `cd client` && `npm install` `cd ../server` && `npm install`
+3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies:  
+   `cd client` && `npm install`  
+    `cd ../server` && `npm install`
 4. Create a .env file in the server directory and provide the necessary environment variables as follows:  
    `OPENAI_API_KEY=your_openai_api_key`  
    `MONGODB_URI=your_mongodb_connection_string`  
@@ -62,8 +64,10 @@ Follow these steps to run the **AI_Image_Generator** on your local machine:
    `CLOUDINARY_API_KEY=your_cloudinary_api_key`  
    `CLOUDINARY_API_SECRET=your_cloudinary_api_secret`  
    - Replace `your_openai_api_key`, `your_mongodb_connection_string`, `your_cloudinary_cloud_name`, `your_cloudinary_api_key`, and `your_cloudinary_api_secret` with your actual API keys and connection strings.
-6. Now, start the development servers for the frontend and backend. `cd client` `npm run dev` `cd ../server` `npm run dev`
-7. In your terminal, you will see a message like `Server running at:`
+5. Now, start the development servers for the frontend and backend.  
+ `cd client` `npm run dev`  
+ `cd ../server` `npm run dev`
+6. In your terminal, you will see a message like `Server running at:`
    - Ctrl+click on the **localhost:5137** link to open the application in your browser.
 
 
