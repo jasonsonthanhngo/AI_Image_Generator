@@ -42,19 +42,41 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 - **Image Hosting**: Images are hosted using Cloudinary, ensuring fast and reliable image delivery.
 
 ## Installation 
- <br />
 ### Prerequisites
+
 Before proceeding, ensure you have the following:
  <br />
 - Node.js and npm installed on your machine.
 - MongoDB set up and running.
- <br />
+- Additionally, make sure you have Vite installed globally by running `npm install -g create-vite` if you haven't done so already.
+
 Follow these steps to run the **AI_Image_Generator** on your local machine:
+
 1. Start by cloning the repository to your local machine: `git clone https://github.com/jasonsonthanhngo/AI_Image_Generator.git`
 2. Navigate to the project directory: `cd AI_Image_Generator`
-3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies: 
- `cd client` && `npm install`
- `cd server` && `npm install`
+3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies: `cd client` && `npm install` `cd ../server` && `npm install`
+4. Create a .env file in the server directory and provide the necessary environment variables as follows:  
+   `OPENAI_API_KEY=your_openai_api_key`  
+   `MONGODB_URI=your_mongodb_connection_string`  
+   `CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name`  
+   `CLOUDINARY_API_KEY=your_cloudinary_api_key`  
+   `CLOUDINARY_API_SECRET=your_cloudinary_api_secret`  
+   - Replace `your_openai_api_key`, `your_mongodb_connection_string`, `your_cloudinary_cloud_name`, `your_cloudinary_api_key`, and `your_cloudinary_api_secret` with your actual API keys and connection strings.
+6. Now, start the development servers for the frontend and backend. `cd client` `npm run dev` `cd ../server` `npm run dev`
+7. In your terminal, you will see a message like `Server running at:`
+   - Ctrl+click on the **localhost:5137** link to open the application in your browser.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
