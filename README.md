@@ -9,10 +9,15 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 ## Preview
 
 ![Homepage](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/e59d61de-7938-49a2-8a44-e852e72cb6a2)
+
 **Homepage**
+
 ![Create Page](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/b8bf49c8-1ee5-46ab-9ea8-13f309030b54)
+
 **Create Page**
+
 ![Photo Info when hoover](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/cc6a892f-3654-4fa2-a5e2-1ebdf5996589)
+
 **Photo Info**
 
 
