@@ -10,7 +10,7 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 
 ![Homepage](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/e59d61de-7938-49a2-8a44-e852e72cb6a2)
 
-**Homepage**
+<p align="center">**Homepage**</p>
 
 ![Create Page](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/b8bf49c8-1ee5-46ab-9ea8-13f309030b54)
 
@@ -23,11 +23,11 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 
 ## Technologies Used
 
-**Frontend**: React with Vite, hosted on GitHub Pages
-**Backend**: Node.js with Express, hosted on Render
-**Database**: MongoDB
-**Image Hosting**: Cloudinary
-**AI**: OpenAI API 
+- **Frontend**: React with Vite, hosted on GitHub Pages
+- **Backend**: Node.js with Express, hosted on Render
+- **Database**: MongoDB
+- **Image Hosting**: Cloudinary
+- **AI**: OpenAI API 
 
 ## Features
 
