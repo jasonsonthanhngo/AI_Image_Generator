@@ -10,7 +10,7 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 
 ![Homepage](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/e59d61de-7938-49a2-8a44-e852e72cb6a2)
 
-<p align="center">**Homepage**</p>
+**<p align="center">Homepage</p>**
 
 ![Create Page](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/b8bf49c8-1ee5-46ab-9ea8-13f309030b54)
 
