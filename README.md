@@ -53,8 +53,8 @@ Follow these steps to run the **AI_Image_Generator** on your local machine:
 1. Start by cloning the repository to your local machine: `git clone https://github.com/jasonsonthanhngo/AI_Image_Generator.git`
 2. Navigate to the project directory: `cd AI_Image_Generator`
 3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies: 
- <br />  `cd client` && `npm install`
- <br />  `cd server` && `npm install`
+ `cd client` && `npm install`
+ `cd server` && `npm install`
 
 
 
