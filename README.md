@@ -41,6 +41,20 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 - **Data Storage**: The app uses MongoDB to store and manage image data efficiently.
 - **Image Hosting**: Images are hosted using Cloudinary, ensuring fast and reliable image delivery.
 
-## Installation
+## Installation 
+ <br />
+### Prerequisites
+Before proceeding, ensure you have the following:
+ <br />
+- Node.js and npm installed on your machine.
+- MongoDB set up and running.
+ <br />
+Follow these steps to run the **AI_Image_Generator** on your local machine:
+1. Start by cloning the repository to your local machine: `git clone https://github.com/jasonsonthanhngo/AI_Image_Generator.git`
+2. Navigate to the project directory: `cd AI_Image_Generator`
+3. Next, navigate to the client (frontend) and server (backend) folders and install the required dependencies: 
+ <br />  `cd client` && `npm install`
+ <br />  `cd server` && `npm install`
+
 
 
