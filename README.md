@@ -25,9 +25,14 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 
 
 ### Phone Screen Preview 
-| Home Page | Photo Information Display | Create Page | Scrollable Content on Phone UI |
-|--------------|--------------|--------------|--------------|
-| ![IOS Header](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/a7205b11-1652-4508-83a9-475de1183bed) | ![IOS Feed](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/1349713f-20b8-42c2-8c7c-9b367757f0cf) | ![IOS Create](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/7490a250-ebcb-4a28-8c39-0e3e489611a2) | ![IOS Home](https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/aa67d8bf-c67f-466e-9c12-fa331436d270) |
+
+<div style="display: flex;">
+<img src="https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/a7205b11-1652-4508-83a9-475de1183bed" alt="home_page" width="230"/>
+<img src="https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/1349713f-20b8-42c2-8c7c-9b367757f0cf" alt="photo_info" width="230"/>
+<img src="https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/7490a250-ebcb-4a28-8c39-0e3e489611a2" alt="create_page" width="230"/>
+<img src="https://github.com/jasonsonthanhngo/AI_Image_Generator/assets/131301318/aa67d8bf-c67f-466e-9c12-fa331436d270" alt="scrollable_content" width="230"/>
+</div>
+
 
 
 ## Technologies Used
