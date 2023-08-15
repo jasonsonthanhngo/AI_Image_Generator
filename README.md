@@ -37,7 +37,7 @@ https://jasonsonthanhngo.github.io/AI_Image_Generator/
 
 ## Technologies Used
 
-- **Frontend**: React with Vite, hosted on GitHub Pages
+- **Frontend**: React with Vite, Tailwind CSS, hosted on GitHub Pages
 - **Backend**: Node.js with Express, hosted on Render
 - **Database**: MongoDB
 - **Image Hosting**: Cloudinary
